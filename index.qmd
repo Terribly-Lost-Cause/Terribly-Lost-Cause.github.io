@@ -1,9 +1,35 @@
 ---
-title: "About Cavell"
+title: "About Me"
 ---
 
+## Hello.
 
+Welcome to my homepage.  
+I do things. Sometimes intentionally. Mostly accidentally or on reflex. Like muscle spasms.
 
-</br>
-*My name is Cavell and the mechanization of my mind are an enigma*
 ![ ](static.gif)
+
+
+> *The machinations of my mind are an enigma.*  
+> – Also me, probably
+
+If you expected more personality, please refresh. Maybe one will load next time.
+
+---
+
+### About Me
+
+- 🧠 I think (when necessary).  
+- 🧊 My hobbies include buffering.  
+- 🎯 I am currently aiming for the middle.  
+- 💼 Future goals: TBD  
+- 🌐 Favorite protocol: https
+
+---
+
+### Need something more?
+
+Me too.  
+Enjoy the silence.
+
+

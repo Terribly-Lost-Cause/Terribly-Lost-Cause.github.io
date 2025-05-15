@@ -1,6 +1,31 @@
 ---
-title: "My one singular braincell activity in real time"
+title: "About"
+format: html
 ---
 
+## My Project: The Recycling Bin-Bot ♻️
 
-![ ](my braincell.gif)
+At some point, I built a robot that sorts trash.  
+It’s not perfect, but it tried.
+
+The **Recycling Bin-Bot** uses basic sensors and classification logic to detect the material of an object (plastic, metal, paper, etc.) and sort it into the correct bin. The idea was to make recycling a bit smarter — or at least slightly less chaotic.
+
+I entered it into a competition.  
+Didn’t win. Still kind of proud.
+
+### What I Learned
+
+- Basic robotics and sensor integration
+- How to sort stuff (and my life, marginally)
+- That failure in a competition isn’t really failure if you enjoyed the process (…mostly)
+
+### Why It Mattered
+
+Even though the bot wasn't flawless, it got people thinking about automation and sustainability. And I got to test my ability to build something practical(ish) from scratch.
+
+> Would I do it again?  
+> Probably. But with better wires.
+
+---
+
+*Thanks for visiting. You can find the homepage [here](index.qmd).*

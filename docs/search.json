@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Cavell",
+    "title": "About Me",
     "section": "",
-    "text": "My name is Cavell and the mechanization of my mind are an enigma"
+    "text": "Welcome to my homepage.\nI do things. Sometimes intentionally. Mostly accidentally or on reflex. Like muscle spasms.\n\n\nThe machinations of my mind are an enigma.\n– Also me, probably\n\nIf you expected more personality, please refresh. Maybe one will load next time.\n\n\n\n\n🧠 I think (when necessary).\n\n🧊 My hobbies include buffering.\n\n🎯 I am currently aiming for the middle.\n\n💼 Future goals: TBD\n\n🌐 Favorite protocol: https\n\n\n\n\n\nMe too.\nEnjoy the silence."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "At some point, I built a robot that sorts trash.\nIt’s not perfect, but it tried.\nThe Recycling Bin-Bot uses basic sensors and classification logic to detect the material of an object (plastic, metal, paper, etc.) and sort it into the correct bin. The idea was to make recycling a bit smarter — or at least slightly less chaotic.\nI entered it into a competition.\nDidn’t win. Still kind of proud.\n\n\n\nBasic robotics and sensor integration\nHow to sort stuff (and my life, marginally)\nThat failure in a competition isn’t really failure if you enjoyed the process (…mostly)\n\n\n\n\nEven though the bot wasn’t flawless, it got people thinking about automation and sustainability. And I got to test my ability to build something practical(ish) from scratch.\n\nWould I do it again?\nProbably. But with better wires.\n\n\nThanks for visiting. You can find the homepage here."
+  },
+  {
+    "objectID": "index.html#hello.",
+    "href": "index.html#hello.",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome to my homepage.\nI do things. Sometimes intentionally. Mostly accidentally or on reflex. Like muscle spasms.\n\n\nThe machinations of my mind are an enigma.\n– Also me, probably\n\nIf you expected more personality, please refresh. Maybe one will load next time.\n\n\n\n\n🧠 I think (when necessary).\n\n🧊 My hobbies include buffering.\n\n🎯 I am currently aiming for the middle.\n\n💼 Future goals: TBD\n\n🌐 Favorite protocol: https\n\n\n\n\n\nMe too.\nEnjoy the silence."
+  },
+  {
+    "objectID": "about.html#my-project-the-recycling-bin-bot",
+    "href": "about.html#my-project-the-recycling-bin-bot",
+    "title": "About",
+    "section": "",
+    "text": "At some point, I built a robot that sorts trash.\nIt’s not perfect, but it tried.\nThe Recycling Bin-Bot uses basic sensors and classification logic to detect the material of an object (plastic, metal, paper, etc.) and sort it into the correct bin. The idea was to make recycling a bit smarter — or at least slightly less chaotic.\nI entered it into a competition.\nDidn’t win. Still kind of proud.\n\n\n\nBasic robotics and sensor integration\nHow to sort stuff (and my life, marginally)\nThat failure in a competition isn’t really failure if you enjoyed the process (…mostly)\n\n\n\n\nEven though the bot wasn’t flawless, it got people thinking about automation and sustainability. And I got to test my ability to build something practical(ish) from scratch.\n\nWould I do it again?\nProbably. But with better wires.\n\n\nThanks for visiting. You can find the homepage here."
   }
 ]
