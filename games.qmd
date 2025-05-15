@@ -1,0 +1,37 @@
+---
+title: "Arknights"
+format: html
+---
+
+## Arknights: A Tower Defense Game That Feels Too Good for Mobile
+
+I play **Arknights**. A little too much, maybe — but can you blame me?
+
+It’s a tower defense game with deep strategy, stunning art, and a surprisingly complex storyline involving **plagues, politics, and morally gray decisions** (just how I like my games and my characters).
+
+---
+
+### 🧩 Why I Play It
+
+- The gameplay is actually *smart*. You have to think — like, actually plan ahead.
+- The characters (Operators) have unique roles, stats, skills, and lore. It’s not just about power levels — it’s about synergy.
+- The art and music slap. And the limited-time events are better written than most shows I've watched.
+
+
+
+---
+
+
+
+### 💬 Final Thoughts
+
+Is it gacha? Yes.  
+Do I have regrets? Nope.  
+But I keep coming back because Arknights feels like a game that respects your time, even when it steals it.
+
+![Arknights Logo](arknights.png)  
+*Image © Hypergryph / Yostar*
+
+---
+
+*Back to the [homepage](index.qmd) or see [my projects](about.qmd).*

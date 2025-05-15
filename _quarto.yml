@@ -9,7 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: games.qmd
+        text: Games
+      - href: Reflection.qmd
+        text: Reflection
 
 format:
   html:

@@ -1,35 +1,44 @@
 ---
-title: "About Me"
+title: "Welcome"
+format: html
 ---
 
-## Hello.
+## Hey there — I'm [Cavell].
 
-Welcome to my homepage.  
-I do things. Sometimes intentionally. Mostly accidentally or on reflex. Like muscle spasms.
+I build things. Sometimes they even work.
 
-![ ](static.gif)
-
-
-> *The machinations of my mind are an enigma.*  
-> – Also me, probably
-
-If you expected more personality, please refresh. Maybe one will load next time.
+Right now, this site is a quiet little space on the internet where I keep track of the things I’ve made, broken, and occasionally fixed again.  
+If you're here, you're either curious, lost, or very committed to clicking through random links. Either way: welcome.
 
 ---
 
-### About Me
+### 🛠️ Projects
 
-- 🧠 I think (when necessary).  
-- 🧊 My hobbies include buffering.  
-- 🎯 I am currently aiming for the middle.  
-- 💼 Future goals: TBD  
-- 🌐 Favorite protocol: https
+Most recently, I built a **Recycling Bin-Bot** — a robot that sorts trash based on its material.  
+It got me into a competition. I didn’t win, but the thing *did* sort metal cans and plastic bottles 90% of the time, so I’m calling that a personal victory.
+
+Want more about that? [Check out the project.](about.qmd)
 
 ---
 
-### Need something more?
+### 🧠 Stuff I Like
 
-Me too.  
-Enjoy the silence.
+- Fixing problems with code (and creating new ones accidentally)
+- Minimalist design
+- Systems that do one job well
+- Bots, automation, and weird tech ideas that might just work
 
+---
 
+### 🎯 What I’m Doing Now
+
+Learning new tools. Unlearning bad habits. Occasionally sleeping.  
+This site is a work-in-progress — like most good things.
+
+---
+
+![Robot thinking, probably](static.gif)
+
+> *The machinations of my mind are an enigma.* – still true
+
+---
