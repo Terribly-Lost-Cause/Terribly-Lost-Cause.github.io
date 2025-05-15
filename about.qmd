@@ -1,9 +1,6 @@
 ---
-title: "About"
+title: "My one singular braincell activity in real time"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+![ ](my braincell.gif)

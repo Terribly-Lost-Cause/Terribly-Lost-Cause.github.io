@@ -1,10 +1,9 @@
 ---
-title: "temp_website"
+title: "About Cavell"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-#![The mechanations of my mind are an enigma](static.gif)```
+</br>
+*My name is Cavell and the mechanization of my mind are an enigma*
+![ ](static.gif)
